@@ -8,3 +8,13 @@
 /home/anders/IdeaProjects/Test Dot Net/obj/Debug/netcoreapp2.0/Test Dot Net.AssemblyInfo.cs
 /home/anders/IdeaProjects/Test Dot Net/obj/Debug/netcoreapp2.0/Test Dot Net.dll
 /home/anders/IdeaProjects/Test Dot Net/obj/Debug/netcoreapp2.0/Test Dot Net.pdb
+/home/anders/IdeaProjects/Dotnet-MVC-EntityFramework-Playground/bin/Debug/netcoreapp2.0/Test Dot Net.deps.json
+/home/anders/IdeaProjects/Dotnet-MVC-EntityFramework-Playground/bin/Debug/netcoreapp2.0/Test Dot Net.runtimeconfig.json
+/home/anders/IdeaProjects/Dotnet-MVC-EntityFramework-Playground/bin/Debug/netcoreapp2.0/Test Dot Net.runtimeconfig.dev.json
+/home/anders/IdeaProjects/Dotnet-MVC-EntityFramework-Playground/bin/Debug/netcoreapp2.0/Test Dot Net.dll
+/home/anders/IdeaProjects/Dotnet-MVC-EntityFramework-Playground/bin/Debug/netcoreapp2.0/Test Dot Net.pdb
+/home/anders/IdeaProjects/Dotnet-MVC-EntityFramework-Playground/obj/Debug/netcoreapp2.0/Test Dot Net.csproj.CoreCompileInputs.cache
+/home/anders/IdeaProjects/Dotnet-MVC-EntityFramework-Playground/obj/Debug/netcoreapp2.0/Test Dot Net.AssemblyInfoInputs.cache
+/home/anders/IdeaProjects/Dotnet-MVC-EntityFramework-Playground/obj/Debug/netcoreapp2.0/Test Dot Net.AssemblyInfo.cs
+/home/anders/IdeaProjects/Dotnet-MVC-EntityFramework-Playground/obj/Debug/netcoreapp2.0/Test Dot Net.dll
+/home/anders/IdeaProjects/Dotnet-MVC-EntityFramework-Playground/obj/Debug/netcoreapp2.0/Test Dot Net.pdb
