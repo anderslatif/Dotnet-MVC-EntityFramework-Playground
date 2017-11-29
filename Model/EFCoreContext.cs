@@ -10,7 +10,9 @@ namespace Test_Dot_Net
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             => optionsBuilder
-                .UseMySql(@"Server=localhost;database=dotnet_test;uid=dotnet_test_user;pwd=1@&EyESh&r3XI!z@wkDz;");
+                //.UseSqlServer(@"server=127.0.0.1;database=dotnet_test;uid=dotnet_test_user;pwd=1@&EyESh&r3XI!z@wkDz;"); // mssql
+                .UseMySql(@"server=127.0.0.1;database=dotnet_test;uid=dotnet_test_user;pwd=1@&EyESh&r3XI!z@wkDz;");  // mysql
+
     }
 }
 // dotnet_test_user      1@&EyESh&r3XI!z@wkDz
