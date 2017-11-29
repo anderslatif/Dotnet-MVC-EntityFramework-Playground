@@ -17,7 +17,7 @@ namespace Test_Dot_Net.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "View Data message from controller.";
 
             return View();
         }
